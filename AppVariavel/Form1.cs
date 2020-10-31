@@ -16,5 +16,16 @@ namespace AppVariavel
         {
             InitializeComponent();
         }
+
+        private void btnExecutar_Click(object sender, EventArgs e)
+        {
+            string nome;
+            nome = txtMain.Text;
+            MessageBox.Show(nome, "Executado com Sucesso", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
+
+        private void txtMain_TextChanged(object sender, EventArgs e)
+        {
+        }
     }
 }

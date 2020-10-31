@@ -1,0 +1,10 @@
+C:\Users\usuario\source\repos\AppVariavel\AppVariavel\obj\Debug\AppVariavel.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\AppVariavel\AppVariavel\obj\Debug\AppVariavel.frmMain.resources
+C:\Users\usuario\source\repos\AppVariavel\AppVariavel\obj\Debug\AppVariavel.Properties.Resources.resources
+C:\Users\usuario\source\repos\AppVariavel\AppVariavel\obj\Debug\AppVariavel.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\AppVariavel\AppVariavel\obj\Debug\AppVariavel.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\AppVariavel\AppVariavel\bin\Debug\AppVariavel.exe.config
+C:\Users\usuario\source\repos\AppVariavel\AppVariavel\bin\Debug\AppVariavel.exe
+C:\Users\usuario\source\repos\AppVariavel\AppVariavel\bin\Debug\AppVariavel.pdb
+C:\Users\usuario\source\repos\AppVariavel\AppVariavel\obj\Debug\AppVariavel.exe
+C:\Users\usuario\source\repos\AppVariavel\AppVariavel\obj\Debug\AppVariavel.pdb
